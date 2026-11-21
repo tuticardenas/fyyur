@@ -1,4 +1,4 @@
-Fyyur
+Fyyur App
 -----
 
 ## Introduction
